@@ -1,0 +1,76 @@
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\projetoCSharp.exe
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\projetoCSharp.deps.json
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\projetoCSharp.runtimeconfig.json
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Rafael\Desktop\projetoCSharp\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.csproj.CopyComplete
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\refint\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\projetoCSharp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\projetoCSharp\obj\Debug\net6.0-windows\ref\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\projetoCSharp.exe
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\projetoCSharp.deps.json
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\projetoCSharp.runtimeconfig.json
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.csproj.CopyComplete
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\refint\projetoCSharp.dll
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\projetoCSharp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\projetoCSharp - Cópia\obj\Debug\net6.0-windows\ref\projetoCSharp.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\projetoCSharp.exe
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\projetoCSharp.deps.json
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\projetoCSharp.runtimeconfig.json
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.csproj.CopyComplete
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.dll
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\refint\projetoCSharp.dll
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.pdb
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\projetoCSharp.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\integracao\obj\Debug\net6.0-windows\ref\projetoCSharp.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\FireSharp.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\System.Net.Http.Extensions.dll
+C:\Users\Rafael\Desktop\integracao\bin\Debug\net6.0-windows\System.Net.Http.Primitives.dll
